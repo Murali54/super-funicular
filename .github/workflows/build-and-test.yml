@@ -62,4 +62,4 @@ jobs:
           push: true
           tags: |
             ghcr.io/murali54/super-funicular:latest
-            murali54/super-funicular:latest
+            murali24/super-funicular:latest
